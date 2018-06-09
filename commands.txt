@@ -1,0 +1,1 @@
+scrapy runspider top_asked_so_questions.py -t json -o perguntas.json
